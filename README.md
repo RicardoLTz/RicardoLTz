@@ -7,7 +7,7 @@
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/ricardo-lopes-tomaz-21b775217/" target="_blank">
-  <img aling="center" alt="Ricardo-linkedin" height="30" width="40" src"https://cdn-icons-png.flaticon.com/512/1384/1384046.png"
+  <img aling="center" alt="Ricardo-linkedin" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384046.png"
   style="max-width:100%;">
 </a>
 
