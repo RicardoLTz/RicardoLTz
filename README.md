@@ -33,6 +33,8 @@ style="max-width:100%;">
 style="max-width:100%;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoLTz&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoLTz&layout=compact)](https://github.com/RicardoLTz)
+
 
 <!--
 **RicardoLTz/RicardoLTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
