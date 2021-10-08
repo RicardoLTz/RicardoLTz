@@ -32,7 +32,7 @@ style="max-width:100%;">
 <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
 style="max-width:100%;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoLTz&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoLTz&layout=compact&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoLTz&layout=compact)](https://github.com/RicardoLTz)
 
 
