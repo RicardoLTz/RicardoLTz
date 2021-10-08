@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Ricardo Lopes
-- I live in :brazil, Tocantins :fire.
+- I live in 🇧🇷, Tocantins 🔥.
 
 <!--
 **RicardoLTz/RicardoLTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
