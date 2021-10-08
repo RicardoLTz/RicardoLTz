@@ -27,6 +27,8 @@ style="max-width:100%;">
 style="max-width:100%;">
 <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
 style="max-width:100%;">
+<img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+style="max-width:100%;">
 <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
 style="max-width:100%;">
 <!--
