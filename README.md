@@ -32,7 +32,7 @@ style="max-width:100%;">
 <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
 style="max-width:100%;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 <!--
 **RicardoLTz/RicardoLTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
