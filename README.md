@@ -1,6 +1,8 @@
 ### Hi there 👋
 ## I'm Ricardo Lopes
-- I live in 🇧🇷, Tocantins 🔥.
+- I live in 🇧🇷, Tocantins 😎🔥
+- I am a programming student 💻
+- I have been learnig more abount Javascript on Reactjs ❤️
 
 <!--
 **RicardoLTz/RicardoLTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
